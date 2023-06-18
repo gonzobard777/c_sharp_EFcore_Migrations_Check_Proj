@@ -1,0 +1,15 @@
+D:\MEGA\exchange-folder\c sharp\test_projects\EFcore_Migrations\EFcore_Migrations\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+D:\MEGA\exchange-folder\c sharp\test_projects\EFcore_Migrations\EFcore_Migrations\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+D:\MEGA\exchange-folder\c sharp\test_projects\EFcore_Migrations\EFcore_Migrations\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+D:\MEGA\exchange-folder\c sharp\test_projects\EFcore_Migrations\EFcore_Migrations\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+D:\MEGA\exchange-folder\c sharp\test_projects\EFcore_Migrations\EFcore_Migrations\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+D:\MEGA\exchange-folder\c sharp\test_projects\EFcore_Migrations\EFcore_Migrations\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\MEGA\exchange-folder\c sharp\test_projects\EFcore_Migrations\EFcore_Migrations\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MEGA\exchange-folder\c sharp\test_projects\EFcore_Migrations\EFcore_Migrations\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\MEGA\exchange-folder\c sharp\test_projects\EFcore_Migrations\EFcore_Migrations\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+D:\MEGA\exchange-folder\c sharp\test_projects\EFcore_Migrations\EFcore_Migrations\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\MEGA\exchange-folder\c sharp\test_projects\EFcore_Migrations\EFcore_Migrations\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+D:\MEGA\exchange-folder\c sharp\test_projects\EFcore_Migrations\EFcore_Migrations\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+D:\MEGA\exchange-folder\c sharp\test_projects\EFcore_Migrations\EFcore_Migrations\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+D:\MEGA\exchange-folder\c sharp\test_projects\EFcore_Migrations\EFcore_Migrations\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+D:\MEGA\exchange-folder\c sharp\test_projects\EFcore_Migrations\EFcore_Migrations\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll

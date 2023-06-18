@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{5E11B727-4CF3-462F-9780-D9931F8C9F5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{AA8B32EE-C627-4CBF-8FF7-F0697924ADA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{A434EEE5-CDF2-417C-B128-7059A516E2E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{D6F6F555-AF11-45BB-8672-F69E775A7C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AA8B32EE-C627-4CBF-8FF7-F0697924ADA9} = {5E11B727-4CF3-462F-9780-D9931F8C9F5D}
+		{D6F6F555-AF11-45BB-8672-F69E775A7C85} = {A434EEE5-CDF2-417C-B128-7059A516E2E5}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8B32EE-C627-4CBF-8FF7-F0697924ADA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8B32EE-C627-4CBF-8FF7-F0697924ADA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8B32EE-C627-4CBF-8FF7-F0697924ADA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8B32EE-C627-4CBF-8FF7-F0697924ADA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F6F555-AF11-45BB-8672-F69E775A7C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F6F555-AF11-45BB-8672-F69E775A7C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F6F555-AF11-45BB-8672-F69E775A7C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F6F555-AF11-45BB-8672-F69E775A7C85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
